@@ -1,0 +1,18 @@
+{
+  "name": "tail",
+  "version": "1.0.0",
+  "description": "Tail a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "Himani Agrawal",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.1.0"
+  }
+}
